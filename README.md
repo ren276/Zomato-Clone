@@ -25,13 +25,7 @@ A high-fidelity mobile application clone of **Zomato**. This project demonstrate
 * **Dependency Injection**: Hilt (if applicable)
 * **Navigation**: Compose Navigation Component
 
-## 📸 Screenshots
 
-| Home Screen | Search Results | Restaurant Detail |
-| :---: | :---: | :---: |
-| <img src="[PASTE_LINK_HERE]" width="200"> | <img src="[PASTE_LINK_HERE]" width="200"> | <img src="[PASTE_LINK_HERE]" width="200"> |
-
-> **Note:** To add images, upload your screenshots to the repository and replace `[PASTE_LINK_HERE]` with the file path.
 
 ---
 
